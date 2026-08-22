@@ -28,6 +28,3 @@ current_focus:
 <a href="https://github.com/evargre">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://github.com/eleven-labs">
-  <img src="https://camo.githubusercontent.com/7782e973eaab5edc1adacef5eb770ece21d7e11885fc09962579414e0e1fcd97/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f746f6e4d61696c2d2532333842383943432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d70726f746f6e6d61696c266c6f676f436f6c6f723d7768697465" alt="Proton"/>
-</a>
